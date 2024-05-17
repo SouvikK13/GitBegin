@@ -1,0 +1,18 @@
+Types
+
+ 1.Localized   2.Centralized   3.Distributed 
+
+
+ṁ Distributed VC : Most used VC System 
+------------------
+  2 parts 
+ 	  1.Remote Hosting(Github)
+	  2.Local Part
+ 
+ṁ Git Snapshot :State of project at a given moment of time
+---------------- 
+
+ṁ Git States
+
+  1.Modified   2.Staged   3.Committed
+
