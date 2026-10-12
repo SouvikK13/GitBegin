@@ -7,6 +7,6 @@ public class reverseString {
 	{
 		b= b +  r.charAt(i); 
 	}
-	System.out.println("--output-- \n"+b);
+	System.out.println("-----output----- \n"+b);
 }
 }
